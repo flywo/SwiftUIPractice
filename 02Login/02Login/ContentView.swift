@@ -12,7 +12,6 @@ struct ContentView: View {
     @State private var name = ""
     @State private var pass = ""
     @State private var choice = false
-    @State private var pushSuccess = false
     init() {
         UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor: UIColor.orange]
         UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: UIColor.orange]
@@ -60,16 +59,11 @@ struct ContentView: View {
                         .foregroundColor(.white)
                         .font(Font.system(size: 12))
                 }
-                
-                NavigationLink(destination: ResultView(viewType: 5), isActive: $pushSuccess) {
-                    Button(action: {
-                        self.pushSuccess = true
-                    }) {
-                        Text("登录")
-                            .frame(width: 200, height: 40)
-                            .foregroundColor(.white)
-                            .background(Color.orange)
-                            .cornerRadius(5)
+                LoginBtn { () -> Bool in
+                    if self.name == "admin" && self.pass == "admin" {
+                        return true
+                    } else {
+                        return false
                     }
                 }
                 HStack {

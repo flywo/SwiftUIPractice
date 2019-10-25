@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8C2A74CD2362C6F600A9F61F /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C2A74CC2362C6F600A9F61F /* ResultView.swift */; };
 		8C2A74CF2362C96400A9F61F /* UnderLineText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C2A74CE2362C96400A9F61F /* UnderLineText.swift */; };
+		8C2A74D12362E39F00A9F61F /* LoginBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C2A74D02362E39F00A9F61F /* LoginBtn.swift */; };
 		8C806CFA23629B3700DC6476 /* ThirdIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C806CF923629B3700DC6476 /* ThirdIcon.swift */; };
 		8C8A3780236196D2005F97DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8A377F236196D2005F97DD /* AppDelegate.swift */; };
 		8C8A3782236196D2005F97DD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8A3781236196D2005F97DD /* SceneDelegate.swift */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		8C2A74CC2362C6F600A9F61F /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 		8C2A74CE2362C96400A9F61F /* UnderLineText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderLineText.swift; sourceTree = "<group>"; };
+		8C2A74D02362E39F00A9F61F /* LoginBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginBtn.swift; sourceTree = "<group>"; };
 		8C806CF923629B3700DC6476 /* ThirdIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdIcon.swift; sourceTree = "<group>"; };
 		8C8A377C236196D2005F97DD /* 02Login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 02Login.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C8A377F236196D2005F97DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				8C8A377F236196D2005F97DD /* AppDelegate.swift */,
 				8C8A3781236196D2005F97DD /* SceneDelegate.swift */,
 				8C8A3783236196D2005F97DD /* ContentView.swift */,
+				8C2A74D02362E39F00A9F61F /* LoginBtn.swift */,
 				8C2A74CE2362C96400A9F61F /* UnderLineText.swift */,
 				8C806CF923629B3700DC6476 /* ThirdIcon.swift */,
 				8C2A74CC2362C6F600A9F61F /* ResultView.swift */,
@@ -157,6 +160,7 @@
 			files = (
 				8C2A74CD2362C6F600A9F61F /* ResultView.swift in Sources */,
 				8C8A3780236196D2005F97DD /* AppDelegate.swift in Sources */,
+				8C2A74D12362E39F00A9F61F /* LoginBtn.swift in Sources */,
 				8C8A3782236196D2005F97DD /* SceneDelegate.swift in Sources */,
 				8C2A74CF2362C96400A9F61F /* UnderLineText.swift in Sources */,
 				8C806CFA23629B3700DC6476 /* ThirdIcon.swift in Sources */,
