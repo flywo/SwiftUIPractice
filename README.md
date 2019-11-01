@@ -18,3 +18,10 @@ TabView。
 
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/03Tabbar/1.png)
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/03Tabbar/2.png)
+
+
+## 04GridView
+实现UICollectionView的效果。
+
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/04GridView/1.png)
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/04GridView/2.png)
