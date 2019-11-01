@@ -29,3 +29,10 @@ TabView。
 
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/04GridView/1.png)
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/04GridView/2.png)
+
+
+## 05ShoppingList
+实现TableView列表。
+学习如何自定义cell以及展示固定数据。
+
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/05ShoppingList/1.png)
