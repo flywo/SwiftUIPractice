@@ -36,3 +36,10 @@ TabView。
 学习如何自定义cell以及展示固定数据。
 
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/05ShoppingList/1.png)
+
+
+## 06MusicPlayer
+播放音乐界面。实现了播放模式切换，上一曲下一曲，弹出播放列表，播放暂停，播放时图片旋转等功能，没有实现歌曲的播放。
+
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/06MusicPlayer/1.png)
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/06MusicPlayer/2.png)
