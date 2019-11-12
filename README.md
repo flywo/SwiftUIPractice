@@ -43,3 +43,11 @@ TabView。
 
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/06MusicPlayer/1.png)
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/06MusicPlayer/2.png)
+
+
+## 07LegalReport
+获取今日说法的视频列表，点击后进行播放视频。
+
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/07LegalReport/1.png)
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/07LegalReport/2.png)
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/07LegalReport/3.png)
