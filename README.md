@@ -51,3 +51,8 @@ TabView。
 
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/08WeekPicker/1.gif)
 
+
+## 09Instrument
+仪表盘。
+
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/09Instrument/1.gif)
