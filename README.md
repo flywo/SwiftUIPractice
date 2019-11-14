@@ -51,3 +51,10 @@ TabView。
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/07LegalReport/1.png)
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/07LegalReport/2.png)
 ![image](https://github.com/flywo/SwiftUIPractice/blob/master/07LegalReport/3.png)
+
+
+## 08WeekPicker
+选择星期。学习如何使用PreferenceKey。
+
+![image](https://github.com/flywo/SwiftUIPractice/blob/master/08WeekPicker/1.gif)
+
